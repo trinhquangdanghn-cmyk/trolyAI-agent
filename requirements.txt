@@ -9,4 +9,4 @@ streamlit
 requests
 pandas-ta
 yfinance
-python-3.12
+
